@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/aplikasi-dayaserap-kurikulum-merdeka/',
 })
