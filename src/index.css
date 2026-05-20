@@ -1,1 +1,4 @@
 @import "tailwindcss";
+
+/* Memicu dark mode dari tombol sakelar (Class-based Dark Mode v4) */
+@variant dark (&:where(.dark, .dark *));
